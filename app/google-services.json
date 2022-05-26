@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967244130511",
+    "project_id": "trainingck-899dd",
+    "storage_bucket": "trainingck-899dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967244130511:android:08bafc35734371fa34afba",
+        "android_client_info": {
+          "package_name": "com.example.training_ktck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967244130511-rihc5puc6frsgoclnv8dmi753j0108di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZtZflwb_knw0W89rQBVysfpS51_dC7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967244130511-rihc5puc6frsgoclnv8dmi753j0108di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
